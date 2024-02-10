@@ -6,5 +6,5 @@
 Modifications have been made to the model, audio, and AI logic.Added 3 models and around 30 audio files.Functionality can be turned on or off by modifying cfg
 
 # Preview
-https://github.com/TShineCN/ChineseBride-And-NewYear-Ghostgirl/blob/master/1.png
+<img src="https://github.com/TShineCN/ChineseBride-And-NewYear-Ghostgirl/blob/master/1.png">
 
