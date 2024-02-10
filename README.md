@@ -4,3 +4,7 @@
 目前已知问题：由于游戏原版的赛博狂草代码和我个人能力有限，音频加载、布料模拟和索敌逻辑小概率会出现奇怪bug。
 
 Modifications have been made to the model, audio, and AI logic.Added 3 models and around 30 audio files.Functionality can be turned on or off by modifying cfg
+
+# Preview
+
+
